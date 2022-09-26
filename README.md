@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IEscher
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning computer science
 - 📫 How to reach me: ian.escher@gmail.com
 
 <!---
